@@ -16,9 +16,9 @@ Integrantes:
 | Avatar | Contribuidor | Rol / Aportes | Redes / Contacto |
 | :---: | :--- | :--- | :---: |
 | <img src="https://github.com/github.png" width="50" style="border-radius:50%"> | **Andrés Vayas** | 🏗️ Arquitectura, 💻 Software, ⚙️ Backend | [@andres](https://github.com/) |
-| <img src="https://github.com/github.png" width="50" style="border-radius:50%"> | **Joselyn** | 🎨 UI/UX Design, 💅 Frontend | [@stalin](https://github.com/) |
-| <img src="https://github.com/github.png" width="50" style="border-radius:50%"> | **Valentina** | 🐛 Bug Fixes, ⚠️ Testing & QA | [@erick](https://github.com/) |
-| <img src="https://github.com/github.png" width="50" style="border-radius:50%"> | **Sandra** | 📚 Documentación, 🚇 DevOps & CI/CD | [@carlos](https://github.com/) |
+| <img src="https://github.com/github.png" width="50" style="border-radius:50%"> | **Joselyn** | 🎨 UI/UX Design, 💅 Frontend | [@Joselyn](https://github.com/) |
+| <img src="https://github.com/github.png" width="50" style="border-radius:50%"> | **Valentina** | 🐛 Bug Fixes, ⚠️ Testing & QA | [@Valentina](https://github.com/) |
+| <img src="https://github.com/github.png" width="50" style="border-radius:50%"> | **Sandra** | 📚 Documentación, 🚇 DevOps & CI/CD | [@Sandra](https://github.com/) |
 
 ---
 

@@ -19,7 +19,7 @@ Integrantes:
 | <img src="https://github.com/github.png" width="50" style="border-radius:50%"> | **Joselyn** | 🎨 UI/UX Design, 💅 Frontend | [@Joselyn](https://github.com/) |
 | <img src="https://github.com/github.png" width="50" style="border-radius:50%"> | **Valentina** | 🐛 Bug Fixes, ⚠️ Testing & QA | [@Valentina](https://github.com/) -1|
 | <img src="https://github.com/github.png" width="50" style="border-radius:50%"> | **Sandra** | 📚 Documentación, 🚇 DevOps & CI/CD | [@Sandra](https://github.com/) -1 |
-
+| <img src="https://github.com/github.png" width="50" style="border-radius:50%"> | **Anthony Armas** | ⚙️ Backend, 💻 Software | [@anthonyarmas](https://github.com/) |
 ---
 
 ## 💡 Leyenda de Emojis

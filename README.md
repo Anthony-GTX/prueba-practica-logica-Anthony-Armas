@@ -9,7 +9,7 @@ Integrantes:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🤝 Contribuidores / Contributors
 
-¡Gracias a todas las personas que aportan a este proyecto! / Thanks to all the people who contribute to this project!
+¡Gracias a todas las personas que aportan a este proyecto!
 
 ## 📋 Tabla de Aportes
 

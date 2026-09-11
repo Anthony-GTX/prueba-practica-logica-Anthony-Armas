@@ -4,7 +4,7 @@ Integrantes:
 - Sandra Alulema
 - Anthony Armas
 - Joselyn Guaman
-- Valentina Ortiz
+- Valeria Valentina Ortiz
 - Andres Vayas
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🤝 Contribuidores / Contributors
